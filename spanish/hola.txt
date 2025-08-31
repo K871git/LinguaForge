@@ -1,0 +1,39 @@
+# this is espaniol tutorial 
+ hola soy kishor, 
+ 
+ 
+# Section 1
+
+    @important phrases
+    # EL ella                       = It is her 
+    # El come manzana               = he eats apple 
+    # Yo como manzana               = I eat appl
+    # tu comos manzanas             = You eat apples
+    # estoy muy ocupada             = im very busy
+    # mi gato se llama              = my cat name is
+    # estudio                       = to study
+    # mi nombre es                  = my name is 
+    # como tel llamas               = what is your name
+
+    @greetings
+    # Hasta Manana                   = see you tomarrow
+    # lo si ento                     = I'm sorry
+    # Hasta luego senor Parez        = see you later
+    # como estas carmen              = how are you
+
+# Section 2
+    @Stories :
+        # videojuego nuevo(new)      = new videogame 
+        # yo lo quiero               = I want this
+        # Lo compramos               = (can) we buy It
+        # tienes                     = you have
+        # vamos a casa               = we are going home ? 
+        # vamos a casa de Louis      = we are going to Louis's house
+        # Por que                    = why
+        # su televison es grande     = his tv is big
+        # yo necisito ver el         = i need to watch
+        # patido de futbol           = football match (soccer game)
+        # que quieres comer          = what do you want to eat
+
+
+# 
