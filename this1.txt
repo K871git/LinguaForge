@@ -1,8 +1,0 @@
-# starting with the git again
-
-# section commands [fresh]
-
-    # git --version
-    # git stasut  
-
-    
