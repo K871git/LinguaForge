@@ -34,8 +34,17 @@
         # yo necisito ver el         = i need to watch
         # patido de futbol           = football match (soccer game)
         # que quieres comer          = what do you want to eat
-
+    
+    cerca(serca)                :   nearby, close
+    cerca de                    :   colse to
 
 # grammer 
 
 Nosotras : usamos
+
+
+
+# pharase : 
+
+yo quiero viajar a spana    : i want to travel to spain.
+quieres ir a biblioteca     : Do you want to go to the library

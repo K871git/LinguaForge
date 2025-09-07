@@ -1,2 +1,11 @@
-drüben  :   over there
-Markt   :   Market
+drüben          :   over there
+Markt           :   Market
+die Kirche      :   the church
+die Bibliothek  :   the libirary
+in der Nahe     :   nearby
+alt             :   old
+schon           :   beautiful
+apotheke        :   pharmacy
+immer           :   always
+aufregend       :   exciting
+billig          :   cheap 
