@@ -1,0 +1,4 @@
+puerta          = door
+estan           = you are
+parada          = stop
+lejos           = far

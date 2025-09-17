@@ -41,6 +41,7 @@
 # grammer 
 
 Nosotras : usamos
+Nosotros : estamos
 
 
 
@@ -48,3 +49,4 @@ Nosotras : usamos
 
 yo quiero viajar a spana    : i want to travel to spain.
 quieres ir a biblioteca     : Do you want to go to the library
+nosotros estamos el lado del cafe : we are next to the cafe
