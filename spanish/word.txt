@@ -2,3 +2,7 @@ puerta          = door
 estan           = you are
 parada          = stop
 lejos           = far
+cuando          = when 
+izqierda        = left 
+quieres ir      = do you want to go
+somows          = we are 
