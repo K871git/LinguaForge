@@ -6,3 +6,5 @@ cuando          = when
 izqierda        = left 
 quieres ir      = do you want to go
 somows          = we are 
+En Sario        = Seriously
+

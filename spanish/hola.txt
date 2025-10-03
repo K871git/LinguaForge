@@ -53,3 +53,4 @@ nosotros estamos el lado del cafe : we are next to the cafe
 
 yo tambien voy el museo : im also going to the museum
 Cuando queres ir a la estacion : when do you want to go to the station.
+
