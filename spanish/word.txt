@@ -7,4 +7,6 @@ izqierda        = left
 quieres ir      = do you want to go
 somows          = we are 
 En Sario        = Seriously
+el pollo        = the chicken
+el arroz        = the rice 
 
