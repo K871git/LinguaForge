@@ -7,3 +7,5 @@ Leemos los correos electronicos en la manana : We read the emails in the morning
 Donde comen ustedes hoy? : Where are you eating today?
 Ellos Quieren : They want 
 esta Buena : It's good
+
+hora del almuerzo : lunch time
