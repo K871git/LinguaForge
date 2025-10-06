@@ -11,3 +11,5 @@ nosotros,Nosotras       = hablamos  , amos
 ellos, ellas, ustedes   = hablan    , an  
 name(juan, maria)       = habla     , a 
 
+caminar = to walk 
+
