@@ -1,0 +1,13 @@
+yo          = compro
+nosotros    = compramos
+tu          = hablas, necesitas
+
+
+blueprint for grammer : 
+yo                      = habro     , o 
+tu                      = hablas    , as 
+el,ella,usted           = habla     , a
+nosotros,Nosotras       = hablamos  , amos
+ellos, ellas, ustedes   = hablan    , an  
+name(juan, maria)       = habla     , a 
+
