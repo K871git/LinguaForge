@@ -17,3 +17,6 @@ for -er verbs say aprender
 
 yo aperendo; tu aprendes; El, ella, usted aprende; Nosotros, Nosotras aprendemos; ellas, ellos, ustedes aprenden;
 
+for -ir verbs say abrir 
+
+yo abro; tu abres; el, ella, usted abre; Nosotros, Nosotras abrimos; ellos, ellas, ustedes abren
