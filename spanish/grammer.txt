@@ -13,3 +13,7 @@ name(juan, maria)       = habla     , a
 
 caminar = to walk 
 
+for -er verbs say aprender 
+
+yo aperendo; tu aprendes; El, ella, usted aprende; Nosotros, Nosotras aprendemos; ellas, ellos, ustedes aprenden;
+
