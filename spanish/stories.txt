@@ -1,0 +1,14 @@
+
+story(1) : jugador de baloncesto : A basketball player
+* main words :
+# jugador       = player 
+# baloncesto    = basketball 
+# nervioso      = nervous
+# mismos        = same
+
+* phareses : 
+van de compras      = go to shopping
+nos esta mirando    = he's looking at us
+viene para aca      = he's coming here 
+que hago            = what do i do 
+tengo que irme      = ive to go 
